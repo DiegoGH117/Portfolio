@@ -1,4 +1,3 @@
-![](./images/picture.jpg)
 
 # Projects
 
