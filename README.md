@@ -1,3 +1,4 @@
+![](https://github.com/DiegoGH117/Portfolio_test/blob/master/images/picture.jpg)
 
 # Projects
 
