@@ -1,3 +1,5 @@
+![Logo](https://github.com/DiegoGH117/Portfolio_test/blob/master/picture.jpg)
+
 # Projects
 
 Here you can find some of the projects that I have worked on in the past.
