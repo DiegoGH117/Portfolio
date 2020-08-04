@@ -1,4 +1,3 @@
-![Logo](https://github.com/DiegoGH117/Portfolio_test/blob/master/picture.jpg)
 
 # Projects
 
