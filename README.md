@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 
 Here you can find some of the projects that I have worked on in the past.
 
