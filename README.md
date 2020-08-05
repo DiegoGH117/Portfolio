@@ -11,4 +11,4 @@ This package is designed to assist in the application of the PPxF method to Inte
 ## [CellARE](https://github.com/DiegoGH117/cellare)
 The Cellular Automata Resource for Epidemiology is small package contains two classes that can be used to simulate SIR scenarios using cellular automata. Check the example Jupyter Notebook for more.
 
-<img src="images/picture.jpg" alt="image1" width="128" height="80">
+<img src="images/picture.jpg" alt="image1" width="256" height="160" class="center">
