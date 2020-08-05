@@ -1,7 +1,7 @@
 
 # Projects
 
-![](images/picture.jpg "image 1")
+![](/images/picture.jpg "image 1")
 
 Here you can find some of the projects that I have worked on in the past.
 
