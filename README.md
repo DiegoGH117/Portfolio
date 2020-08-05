@@ -1,7 +1,7 @@
 
 # Projects
 
-![alt text](https://github.com/DiegoGH117/Portfolio_test/blob/master/images/picture.jpg "image 1")
+<img align="center" src="(https://github.com/DiegoGH117/Portfolio_test/blob/master/images/picture.jpg" width="200" > ![alt text](https://github.com/DiegoGH117/Portfolio_test/blob/master/images/picture.jpg "image 1")
 
 Here you can find some of the projects that I have worked on in the past.
 
