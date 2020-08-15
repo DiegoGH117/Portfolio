@@ -19,15 +19,3 @@ Repository where I keep a few scripts used to simulate galaxies using [AMUSE](ht
 
 <img src="images/disk_400myr.png" align="center" alt="image1" width="300" height="300"></a>
 </div>
-
-
-
-<img src="images/picture.jpg" alt="image1" width="256" height="160">
-
-At this point I am just trying really hard lol.
-
-<div style="text-align: center">
-<a href="https://github.com/DiegoGH117/cellare">
-
-<img src="images/picture.jpg" align="center" alt="image1" width="256" height="160"></a>
-</div>
