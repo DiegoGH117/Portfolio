@@ -11,6 +11,9 @@ This package is designed to assist in the application of the PPxF method to Inte
 ## [CellARE](https://github.com/DiegoGH117/cellare)
 The Cellular Automata Resource for Epidemiology is small package contains two classes that can be used to simulate SIR scenarios using cellular automata. Check the example Jupyter Notebook for more.
 
+## [Galaxy Simulations using AMUSE]()
+Repository where I keep a few scripts used to simulate galaxies using [AMUSE](https://amusecode.github.io), as well some of the results from them. The purpose for these simulations is to create galaxies with different morphologies to study their internal dynamics.
+
 <img src="images/picture.jpg" alt="image1" width="256" height="160">
 
 At this point I am just trying really hard lol.
