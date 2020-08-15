@@ -14,6 +14,14 @@ The Cellular Automata Resource for Epidemiology is small package contains two cl
 ## [Galaxy Simulations using AMUSE]()
 Repository where I keep a few scripts used to simulate galaxies using [AMUSE](https://amusecode.github.io), as well some of the results from them. The purpose for these simulations is to create galaxies with different morphologies to study their internal dynamics.
 
+<div style="text-align: center">
+<a href="">
+
+<img src="images/disk_400myr.png" align="center" alt="image1" width="300" height="300"></a>
+</div>
+
+
+
 <img src="images/picture.jpg" alt="image1" width="256" height="160">
 
 At this point I am just trying really hard lol.
